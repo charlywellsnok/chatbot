@@ -131,7 +131,7 @@
   
   }
 button i{
-  font-size: 0.75rem;
+  font-size: 2.4rem;
 }
   .button:hover {
     box-shadow: inset 0 0 10px rgba(0, 0, 0, 0.2);
@@ -145,4 +145,7 @@ button i{
     background: #bcbdc0;
     border-radius: 10px;
 }
-  
+
+.avatar {
+    display: none; /* Hide avatars */
+} 
